@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Keep-notes-app/static/js/main.df8ff452.chunk.js",
+    "main.js.map": "/Keep-notes-app/static/js/main.df8ff452.chunk.js.map",
+    "runtime-main.js": "/Keep-notes-app/static/js/runtime-main.8099bf07.js",
+    "runtime-main.js.map": "/Keep-notes-app/static/js/runtime-main.8099bf07.js.map",
+    "static/js/2.caa5b365.chunk.js": "/Keep-notes-app/static/js/2.caa5b365.chunk.js",
+    "static/js/2.caa5b365.chunk.js.map": "/Keep-notes-app/static/js/2.caa5b365.chunk.js.map",
+    "index.html": "/Keep-notes-app/index.html",
+    "precache-manifest.5b13e032679361ca22ce7bf43b55227c.js": "/Keep-notes-app/precache-manifest.5b13e032679361ca22ce7bf43b55227c.js",
+    "service-worker.js": "/Keep-notes-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8099bf07.js",
+    "static/js/2.caa5b365.chunk.js",
+    "static/js/main.df8ff452.chunk.js"
+  ]
+}
